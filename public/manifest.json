@@ -3,13 +3,23 @@
   "name": "La App de clase 18x",
   "icons": [
     {
-      "src": "logo92",
-      "sizes": "92x92 32x32 24x24 16x16",
+      "src": "logo92.png",
+      "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
+    },
+    {
+      "src": "logo92.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo92.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#06BEFF",
-  "background_color": "#000000"
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
 }
